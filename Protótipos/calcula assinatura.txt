@@ -1,0 +1,16 @@
+write a function to receive a text
+
+text  - already written
+
+create functions to each linguistic style
+	def tamanho medio de palavra v
+	def relaçao type token v
+	def razao hlr
+	def tamanho medio sentença
+	def complexidade media
+	def tamnho medio frase
+
+return the result each ling function
+
+
+how to put the number of characters of different words in a list

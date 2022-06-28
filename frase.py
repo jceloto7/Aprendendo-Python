@@ -1,0 +1,10 @@
+a="Só"
+b="trabalho"
+c="sem"
+d="diversão"
+e="faz"
+f="de"
+g="João"
+h="um"
+i="chato."
+print(a,b,c,d,e,f,g,h,i)
